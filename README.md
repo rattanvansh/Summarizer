@@ -30,8 +30,8 @@ An AI-powered web application that generates concise summaries from long text in
 ├── requirements.txt  
 ├── templates/  
 │   └── index.html  
-├── static/ (optional)  
-├── saved_summary_model/ (optional if using local model)  
+├── static/  
+
 
 ---
 
